@@ -16,5 +16,5 @@ Contributors:-
 2.Patel Dharmik<br>
 3.Shah Manav<br>
 4.Singh Shreya<br>
-5.Shatasiya Vedika
+5.Satasiya Vedika
 
